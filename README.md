@@ -2,10 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from South Korea</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericseoungminkim&label=Profile%20views&color=0e75b6&style=flat" alt="ericseoungminkim" /> </p>
 
-
-- 🔭 I’m currently working on [BruinMarket](https://github.com/EricSeoungminKim/UCLA_BruinMarket)
-
-- 🌱 I’m currently learning **JS, Python, Machine Learning**
+- 🌱 I’m currently learning **JS, Python, Machine Learning, AI**
 
 - 👯 I’m looking to collaborate on **ANY PROJECTS OR WORKS**
 
@@ -13,7 +10,7 @@
 
 - 💬 Feel free to ask **Anything about me and my projects**
 
-- 📫 How to reach me **seoungminkim03@gmail.com**
+- 📫 How to reach me **seoungmincs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
