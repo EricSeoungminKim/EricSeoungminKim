@@ -28,7 +28,7 @@
 - 🎮 **Xinshen** – 3D RPG game built in Unity (C#)
   [GitHub Repo Hided]
 
-Check out more of my work on [Devpost]([https://devpost.com/](https://devpost.com/EricSeoungminKim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)) and [LinkedIn](https://www.linkedin.com/in/seoungmin-kim-400597222/).
+Check out more of my work on [Devpost](https://devpost.com/EricSeoungminKim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and [LinkedIn](https://www.linkedin.com/in/seoungmin-kim-400597222/).
 
 ---
 
