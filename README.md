@@ -12,23 +12,41 @@
 ---
 
 ### 💼 About Me
-- 🔭 Currently working on: improving my full-stack skills and exploring AI/ML fundamentals
-- 🌱 Learning: JavaScript, Python, TypeScript, Machine Learning
-- 💬 Ask me about: React, Node.js, Firebase, MongoDB, Express, Flutter, or anything related to full-stack dev
-- 🛠️ Tools I work with: React.js, Node.js, Vite, Express, Prisma, Firebase, Flutter, Unity (C#), MongoDB, REST APIs
+- 🔭 Currently working on: improving my full-stack skills and exploring AI/ML fundamentals  
+- 🌱 Learning: JavaScript, Python, TypeScript, Machine Learning  
+- 💬 Ask me about: React, Node.js, Firebase, MongoDB, Express, Flutter, or anything related to full-stack dev  
+- 🛠️ Tools I work with: React.js, Node.js, Vite, Express, Prisma, Firebase, Flutter, Unity (C#), MongoDB, REST APIs  
 - 📫 Reach me at: **seoungmincs@gmail.com**
+
+---
+
+### 🎓 Education
+**University of California, Los Angeles (UCLA)**  
+**B.S. in Electrical Engineering**, Tech Breadth in Computer Science  
+📅 *September 2021 – June 2027*
 
 ---
 
 ### 🔗 Projects
 - 🏀 **Hoopsterz** – Pick-up basketball platform (React, Vite, Express, MongoDB)  
-  [Live Website](https://hoopsterz.vercel.app/)  
+  [LIVE NOW](https://hoopsterz.vercel.app/)
+- 🎬 **NetChill** – Smart Connection platform (HackSC winner)  
+  [View on Devpost](https://devpost.com/software/netchill)
+- 🎬 **Hang** – Hangout Planner with Auto-Suggestion (LA Hacks 23)  
+  [View on Devpost](https://devpost.com/software/hang-h8mecf)
 - 🌐 **UCLA Korean Website** – Community platform connecting 500+ Korean students
-  [GitHub Repo Hided] 
+  [CODE NOT AVAILABLE]
 - 🎮 **Xinshen** – 3D RPG game built in Unity (C#)
-  [GitHub Repo Hided]
+  [CODE NOT AVAILABLE]
 
-Check out more of my work on [Devpost](https://devpost.com/EricSeoungminKim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and [LinkedIn](https://www.linkedin.com/in/seoungmin-kim-400597222/).
+---
+
+### 🏆 Hackathon / Competition Experiences
+- 🥇 **1st Place — Global Connections Vertical**  
+  **Project**: [NetChill](https://devpost.com/software/netchill)  
+  **Event**: HackSC 2023, University of Southern California
+- **Project**: [Hang](https://devpost.com/software/hang-h8mecf)  
+  **Event**: LA Hack 2023, University of California, Los Angeles
 
 ---
 
